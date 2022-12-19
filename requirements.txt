@@ -1,0 +1,5 @@
+gym[all]
+pygame
+numpy
+stable-baselines3[extra]
+torch
